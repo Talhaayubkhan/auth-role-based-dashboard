@@ -9,7 +9,7 @@ const Home = () => {
       <div className="container mx-auto px-4 py-8">
         {/* Header Section */}
         <div className="flex justify-between items-center mb-10">
-          <h1 className="text-4xl font-bold">Welcome to Dashboard</h1>
+          <h1 className="text-4xl font-bold">Home Page</h1>
           <div className="flex items-center gap-3">
             <span className="bg-white/20 px-3 py-1 rounded-full text-sm">
               {userData?.role}
