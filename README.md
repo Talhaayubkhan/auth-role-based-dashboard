@@ -126,15 +126,6 @@ Click the "Logout" button to clear your session and redirect to the login page.
 
 ---
 
-## 🚀 Future Improvements
-
-- 🔐 Add password hashing for secure authentication.
-- 🔗 Integrate with a real backend (e.g., Node.js, Firebase).
-- 🎨 Enhance the UI with animations and better responsiveness.
-- 🛠️ Expand role-based permissions for additional user roles.
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! To contribute:
